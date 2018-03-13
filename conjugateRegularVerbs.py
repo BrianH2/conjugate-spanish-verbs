@@ -39,9 +39,9 @@ for verb in verbs:
 				"tense": "affirmative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "e",
-				"3s": infinitiveNoEnding + "id",
+				"3s": infinitiveNoEnding + "a",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "a",
+				"2p": infinitiveNoEnding + "id",
 				"3p": infinitiveNoEnding + "an"
 			},
 			"imperative negative present": {
@@ -49,9 +49,9 @@ for verb in verbs:
 				"tense": "negative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "as",
-				"3s": infinitiveNoEnding + "áis",
+				"3s": infinitiveNoEnding + "a",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "a",
+				"2p": infinitiveNoEnding + "áis",
 				"3p": infinitiveNoEnding + "an"
 			},
 			"indicative conditional": {
@@ -227,9 +227,9 @@ for verb in verbs:
 				"tense": "affirmative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "e",
-				"3s": infinitiveNoEnding + "ed",
+				"3s": infinitiveNoEnding + "a",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "a",
+				"2p": infinitiveNoEnding + "ed",
 				"3p": infinitiveNoEnding + "an"
 			},
 			"imperative negative present": {
@@ -237,9 +237,9 @@ for verb in verbs:
 				"tense": "negative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "as",
-				"3s": infinitiveNoEnding + "áis",
+				"3s": infinitiveNoEnding + "a",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "a",
+				"2p": infinitiveNoEnding + "áis",
 				"3p": infinitiveNoEnding + "an"
 			},
 			"indicative conditional": {
@@ -415,9 +415,9 @@ for verb in verbs:
 				"tense": "affirmative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "a",
-				"3s": infinitiveNoEnding + "ad",
+				"3s": infinitiveNoEnding + "e",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "e",
+				"2p": infinitiveNoEnding + "ad",
 				"3p": infinitiveNoEnding + "en"
 			},
 			"imperative negative present": {
@@ -425,9 +425,9 @@ for verb in verbs:
 				"tense": "negative present",
 				"1s": "-",
 				"2s": infinitiveNoEnding + "es",
-				"3s": infinitiveNoEnding + "éis",
+				"3s": infinitiveNoEnding + "e",
 				"1p": "-",
-				"2p": infinitiveNoEnding + "e",
+				"2p": infinitiveNoEnding + "éis",
 				"3p": infinitiveNoEnding + "en"
 			},
 			"indicative conditional": {
